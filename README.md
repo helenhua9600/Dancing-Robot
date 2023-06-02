@@ -6,10 +6,6 @@ As a group of 4, we designed and created a dancing robot with six distinct dance
 
 
 
-Utilized Circuit Python to control a Raspberry Pico Pi W, LEDs, an LCD screen, a keypad, several
-servo motors and a buzzer
-• Developed a robot with 6 different dance sequence options and the ability to dance to music or become
-a playable keyboard based on user input, whilst displaying its current state on an LCD screen
 ## Table of Contents
 
 <details>
